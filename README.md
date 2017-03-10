@@ -121,3 +121,9 @@ The following distributions are supported:
 * Linux Mint 16+
 * CentOS 5, 6
 * openSUSE
+
+## Reference 
+
+```
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-dash-on-ubuntu-14-04#step-1-%E2%80%94-installing-linux-dash
+```
